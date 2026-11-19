@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "brand": "acosys",
+  "files": {
+    "AcosysClient_x64.asar": {
+      "version": "8.1.64",
+      "sha256": "6c531310e34531a91cadc79e3fb131176142a313ec6cb1422b15ca037000a530",
+      "size": 42827565,
+      "updatedAt": "2026-11-19T19:23:56.053Z"
+    },
+    "AcosysClient_x64_win7.asar": {
+      "version": "8.1.64",
+      "sha256": "6c531310e34531a91cadc79e3fb131176142a313ec6cb1422b15ca037000a530",
+      "size": 42827565,
+      "updatedAt": "2026-11-19T19:23:56.053Z"
+    },
+    "AcosysClient_x86.asar": {
+      "version": "8.1.64",
+      "sha256": "6c531310e34531a91cadc79e3fb131176142a313ec6cb1422b15ca037000a530",
+      "size": 42827565,
+      "updatedAt": "2026-11-19T19:23:56.053Z"
+    },
+    "AcosysClient_x86_win7.asar": {
+      "version": "8.1.64",
+      "sha256": "6c531310e34531a91cadc79e3fb131176142a313ec6cb1422b15ca037000a530",
+      "size": 42827565,
+      "updatedAt": "2026-11-19T19:23:56.053Z"
+    },
+    "app-x64.zip": {
+      "version": "8.1.64",
+      "sha256": "e54aed675f5bdc4cc89fa8b8449359dc82a849a6cffe75562b46763900c26d72",
+      "size": 18732444,
+      "updatedAt": "2026-11-19T19:23:56.053Z"
+    },
+    "app-x86.zip": {
+      "version": "8.1.64",
+      "sha256": "16f33b348e2f8d2b6058c2392b72296c2b6fb5d54ae0047400b067ff04811878",
+      "size": 18732444,
+      "updatedAt": "2026-11-19T19:23:56.053Z"
+    },
+    "app.asar": {
+      "version": "8.1.64",
+      "sha256": "6c531310e34531a91cadc79e3fb131176142a313ec6cb1422b15ca037000a530",
+      "size": 42827565,
+      "updatedAt": "2026-11-19T19:23:56.053Z"
+    },
+    "app.zip": {
+      "version": "8.1.64",
+      "sha256": "e54aed675f5bdc4cc89fa8b8449359dc82a849a6cffe75562b46763900c26d72",
+      "size": 18732444,
+      "updatedAt": "2026-11-19T19:23:56.053Z"
+    }
+  }
+}

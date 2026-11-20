@@ -3,52 +3,52 @@
   "brand": "acosys",
   "files": {
     "AcosysClient_x64.asar": {
-      "version": "8.1.64",
-      "sha256": "ea5551fd53b3ebfdc91950bb8787344ef2369e5cf9338747d772e3fb4f3b2703",
-      "size": 42841138,
-      "updatedAt": "2026-11-20T10:04:02.725Z"
+      "version": "8.1.6401",
+      "sha256": "804f4f7275563606bad82148016cd7b81d6059ac4b775c90b8eefa118ffc9b9b",
+      "size": 42841697,
+      "updatedAt": "2026-11-20T15:51:14.590Z"
     },
     "AcosysClient_x64_win7.asar": {
-      "version": "8.1.64",
-      "sha256": "ea5551fd53b3ebfdc91950bb8787344ef2369e5cf9338747d772e3fb4f3b2703",
-      "size": 42841138,
-      "updatedAt": "2026-11-20T10:04:02.725Z"
+      "version": "8.1.6401",
+      "sha256": "804f4f7275563606bad82148016cd7b81d6059ac4b775c90b8eefa118ffc9b9b",
+      "size": 42841697,
+      "updatedAt": "2026-11-20T15:51:14.590Z"
     },
     "AcosysClient_x86.asar": {
-      "version": "8.1.64",
-      "sha256": "ea5551fd53b3ebfdc91950bb8787344ef2369e5cf9338747d772e3fb4f3b2703",
-      "size": 42841138,
-      "updatedAt": "2026-11-20T10:04:02.725Z"
+      "version": "8.1.6401",
+      "sha256": "804f4f7275563606bad82148016cd7b81d6059ac4b775c90b8eefa118ffc9b9b",
+      "size": 42841697,
+      "updatedAt": "2026-11-20T15:51:14.590Z"
     },
     "AcosysClient_x86_win7.asar": {
-      "version": "8.1.64",
-      "sha256": "ea5551fd53b3ebfdc91950bb8787344ef2369e5cf9338747d772e3fb4f3b2703",
-      "size": 42841138,
-      "updatedAt": "2026-11-20T10:04:02.725Z"
+      "version": "8.1.6401",
+      "sha256": "804f4f7275563606bad82148016cd7b81d6059ac4b775c90b8eefa118ffc9b9b",
+      "size": 42841697,
+      "updatedAt": "2026-11-20T15:51:14.590Z"
     },
     "app-x64.zip": {
-      "version": "8.1.64",
-      "sha256": "8c25460e6c5725fe4ef88e56ec9921bf3d97168cc2161d312393fa6d6748c121",
-      "size": 18737586,
-      "updatedAt": "2026-11-20T10:04:02.725Z"
+      "version": "8.1.6401",
+      "sha256": "ffb13589af39b9fb820357ef98c212d0aaae7c5ea7bb16c4711b0bec9c7c4ecd",
+      "size": 18737861,
+      "updatedAt": "2026-11-20T15:51:14.590Z"
     },
     "app-x86.zip": {
-      "version": "8.1.64",
-      "sha256": "8b7ca93e26ca3236c22693e1c462f2660919b6aa3eacf181cc5d588c4e3c6e97",
-      "size": 18737586,
-      "updatedAt": "2026-11-20T10:04:02.725Z"
+      "version": "8.1.6401",
+      "sha256": "5f46bdd0e80b9799538db6749218ad142b6bad28f1df68818bbf9c40234722d6",
+      "size": 18737861,
+      "updatedAt": "2026-11-20T15:51:14.590Z"
     },
     "app.asar": {
-      "version": "8.1.64",
-      "sha256": "ea5551fd53b3ebfdc91950bb8787344ef2369e5cf9338747d772e3fb4f3b2703",
-      "size": 42841138,
-      "updatedAt": "2026-11-20T10:04:02.725Z"
+      "version": "8.1.6401",
+      "sha256": "804f4f7275563606bad82148016cd7b81d6059ac4b775c90b8eefa118ffc9b9b",
+      "size": 42841697,
+      "updatedAt": "2026-11-20T15:51:14.590Z"
     },
     "app.zip": {
-      "version": "8.1.64",
-      "sha256": "8c25460e6c5725fe4ef88e56ec9921bf3d97168cc2161d312393fa6d6748c121",
-      "size": 18737586,
-      "updatedAt": "2026-11-20T10:04:02.725Z"
+      "version": "8.1.6401",
+      "sha256": "ffb13589af39b9fb820357ef98c212d0aaae7c5ea7bb16c4711b0bec9c7c4ecd",
+      "size": 18737861,
+      "updatedAt": "2026-11-20T15:51:14.590Z"
     }
   }
 }
